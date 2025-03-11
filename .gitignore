@@ -1,0 +1,32 @@
+# Exclude virtual environment folder
+myenv/
+
+# Exclude Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclude logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Exclude Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Exclude environment and dependency files
+.env
+venv/
+
+# Exclude IDE/editor-specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Exclude model and data files
+model.h5
+*.pkl
+
+# Exclude TensorBoard logs
+logs/
+
