@@ -5,3 +5,5 @@ matplotlib
 tensorboard
 streamlit
 scikit-learn
+scikeras
+nltk
